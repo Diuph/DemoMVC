@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\Documents\\DemoMVC\\DemoMVC\\FirstWebMVC\\FirstWebMVC.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\Documents\\DemoMVC\\DemoMVC\\DemoMVC\\FirstWebMVC.csproj",
       "projectName": "FirstWebMVC",
-      "projectPath": "C:\\Users\\Admin\\Documents\\DemoMVC\\DemoMVC\\FirstWebMVC\\FirstWebMVC.csproj",
+      "projectPath": "C:\\Users\\Admin\\Documents\\DemoMVC\\DemoMVC\\DemoMVC\\FirstWebMVC.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\Documents\\DemoMVC\\DemoMVC\\FirstWebMVC\\obj\\",
+      "outputPath": "C:\\Users\\Admin\\Documents\\DemoMVC\\DemoMVC\\DemoMVC\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
